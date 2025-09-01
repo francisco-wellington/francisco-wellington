@@ -24,13 +24,13 @@ Tenho experiência em redes, suporte técnico e automação, além de projetos p
 ---
 
 ## 📊 Estatísticas no GitHub
-![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=WellingtonSilva12&show_icons=true&theme=tokyonight)  
+![Wellington GitHub stats](https://github-readme-stats.vercel.app/api?username=francisco-wellington&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonSilva12&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-wellington&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌎 Onde me encontrar
 📫 [LinkedIn](https://www.linkedin.com/in/francisco-wellington)  
 🌐 [Portfolio](https://jazzy-granita-35f5d7.netlify.app/)  
-🐙 [GitHub](https://github.com/WellingtonSilva12)  
+🐙 [GitHub](https://github.com/francisco-wellington)  
